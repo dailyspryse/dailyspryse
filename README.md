@@ -16,8 +16,7 @@
   🌱 I’m currently learning Unity and other things.<br>
   💬 ask me about anything, i am happy to help.
   💜 Interests: music, video games, programing language<br>
-  🎵 I love to hear 
-    pianists when im programming dont ask me why.<br>
+  🎵 I love to hear pianists when im programming dont ask me why.<br>
   ⚡ Fun fact: i am lazy and that is why i program things that work for me.
 
   Image by [Google idk](https://data.whicdn.com/images/359024343/original.gif) | 
