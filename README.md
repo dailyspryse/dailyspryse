@@ -21,7 +21,8 @@
 
   Image by [Google idk](https://data.whicdn.com/images/359024343/original.gif) | 
   Inspired by [instance01](https://github.com/instance01/instance01)<br><br>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=stationtest24&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=stationtest24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+      
   ## Tech Stack
   * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
