@@ -40,4 +40,3 @@
 
 ---
 
-![Footer Image](link-zu-deinem-footer.jpg)
