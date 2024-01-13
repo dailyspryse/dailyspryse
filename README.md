@@ -1,6 +1,6 @@
 
 
-![Banner Image](https://cdn.discordapp.com/banners/1017940084164669460/89a22abc5b966293d1efa3952219d823.webp?size=1024&width=0&height=256)
+![Banner Image](https://media.discordapp.net/attachments/1189805015750152192/1195518295508525066/d4aily_whispers_of_the_void_beneath_the_crimson_moon._a_somber__31baa21a-0a30-4302-af11-229c18df5c40.png?ex=65b4482d&is=65a1d32d&hm=97e2d62b24e08d35844a8ca299ef06ff7f9bccbef07842dc6a8b6975311f64cf&=&format=webp&quality=lossless&width=1197&height=671)
 
 > "I'm lazy, so I code things to work for me."
 
